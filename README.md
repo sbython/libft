@@ -1,0 +1,2 @@
+# libft
+this is libft
