@@ -1,6 +1,7 @@
 fun := ft_memset \
        		ft_bzero \
-		ft_memcpy	
+			ft_memcpy \
+			ft_memccpy
 
 flag = -Wall -Wextra -Werror 
 NAME := libft.a
